@@ -4,19 +4,18 @@
 
 <h3>🎲 Executando<h3/>
 
-# Baixe este repositório
+- Baixe este repositório
 
-# Abra o Exolorador de Arquivos/outros
-C:\Users\edson\Downloads\C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCULADORA\bin\Debug
-# Vá para a pasta onde esta baixado, encontre a pasta compactada co o nome: C_Sharp-Calculadora-MINI_PROJETO-main
+- Abra o Exolorador de Arquivos/outros
 	
-# com a pasta descompaquitada, vai abrindo ate chegar em "Debug"
-#Caminho: C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCULADORA\bin\Debug
+- Vá para a pasta onde esta baixado, encontre a pasta compactada co o nome: C_Sharp-Calculadora-MINI_PROJETO-main
 	
-# Dentro da pasta "Debug", ache o executavel com o nome "CALCULADORA.exe"
+- com a pasta descompaquitada, vai abrindo ate chegar em "Debug"
+Caminho: `C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCULADORA\bin\Debug`
+	
+- Dentro da pasta "Debug", ache o executavel com o nome "CALCULADORA.exe"
 
-# Agora é so executar e pronto!
-
+- Agora é so executar e pronto!
 
 <h3>LINGUAGEM UTILIZADA</h3>
 <p>As seguintes Linguagens foram usadas na construção do projeto:</p>
