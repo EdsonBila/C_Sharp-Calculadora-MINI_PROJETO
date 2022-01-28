@@ -16,7 +16,7 @@ C:\Users\edson\Downloads\C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCU
 	
 # Dentro da pasta "Debug", ache o executavel com o nome "CALCULADORA.exe"
 
-# Aora é so executar e pronto!
+# Agora é so executar e pronto!
 ```
 
 <h3>LINGUAGEM UTILIZADA</h3>
