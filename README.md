@@ -4,7 +4,6 @@
 
 <h3>🎲 Executando<h3/>
 
-```bash
 # Baixe este repositório
 
 # Abra o Exolorador de Arquivos/outros
@@ -17,7 +16,7 @@ C:\Users\edson\Downloads\C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCU
 # Dentro da pasta "Debug", ache o executavel com o nome "CALCULADORA.exe"
 
 # Agora é so executar e pronto!
-```
+
 
 <h3>LINGUAGEM UTILIZADA</h3>
 <p>As seguintes Linguagens foram usadas na construção do projeto:</p>
