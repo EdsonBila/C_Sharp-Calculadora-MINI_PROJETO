@@ -2,7 +2,7 @@
 <h2>DESCRIÇÃO</h2>
 <p>Esse projeto foi feito com a intenção de exercitar os conhecimentos em C# criando uma calculadora simples.</p>
 
-<h3>🎲 Executando<h3/>
+<h3>🎲 Executando</h3>
 
 - Baixe este repositório
 
