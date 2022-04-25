@@ -27,3 +27,6 @@ Caminho: `C_Sharp-Calculadora-MINI_PROJETO-main\CALCULADORA\CALCULADORA\bin\Debu
 <ul>
 	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20" height="20"/> Visual Studio</li>
 </ul>
+<h1>Autores</h1>
+
+- [Edson Bila dos Santos Junior](https://www.github.com/EdsonBila)
